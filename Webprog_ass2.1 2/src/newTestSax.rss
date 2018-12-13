@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://my.netscape.com/rdf/simple/0.9/">
+	<channel>
+ 	 <title>heise online News</title>
+ 	 <link>https://www.heise.de/newsticker/</link>
+ 	 <description>Nachrichten nicht nur aus der Welt der Computer</description>
+	</channel>
+
+
+	<item>
+		<title>c't Fotografie: 85-Millimeter-Objektive</title>
+		<link>https://www.heise.de/newsticker/meldung/c-t-Fotografie-85-Millimeter-Objektive-3569402.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Natürliche Bildwirkung, weiche Schärfeübergänge, Nähe ohne Aufdringlichkeit – 85-Millimeter-Objektive gehören als leichte Telebrennweiten in jeden Fotografenkoffer. Wir haben sie für die Ausgabe 1/2017 der c't Fotografie gegen die Klassiker getestet.</description>
+	</item>
+
+	<item>
+		<title>Fernwartung: AnyDesk 3.0 modernisiert das Addressbuch</title>
+		<link>https://www.heise.de/newsticker/meldung/Fernwartung-AnyDesk-3-0-modernisiert-das-Addressbuch-3569721.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>AnyDesk hat die dritte Ausgabe seiner Software zum Fernzugriff auf andere Rechner veröffentlicht. Arbeit floss vor allem in das neue Adressbuch, über das Administratoren ihre Verbindungen verwalten und aufbauen können.</description>
+	</item>
+
+	<item>
+		<title>Projekt für Google-Autos kommt in eigene Firma namens Waymo</title>
+		<link>https://www.heise.de/newsticker/meldung/Projekt-fuer-Google-Autos-kommt-in-eigene-Firma-namens-Waymo-3569781.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Alphabet lagert die Entwicklung der Technik für selbstfahrende Autos in eine eigenständige Tochterfirma aus.</description>
+	</item>
+
+	<item>
+		<title>Snapchat: Jetzt mit Gruppenchats und Musikerkennung</title>
+		<link>https://www.heise.de/newsticker/meldung/Snapchat-Jetzt-mit-Gruppenchats-und-Musikerkennung-3569697.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der Instant Messenger Snapchat lässt nun Gruppenchats zu. Nutzer können außerdem im Umfeld wiedergegebene Musiktitel von der App erkennen lassen – dank einer Kooperation mit Shazam.</description>
+	</item>
+
+	<item>
+		<title>Android Wear: Google übernimmt Spezialisten für Smartwatch-Software Cronologics</title>
+		<link>https://www.heise.de/newsticker/meldung/Android-Wear-Google-uebernimmt-Spezialisten-fuer-Smartwatch-Software-Cronologics-3569767.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Ein von drei ehemaligen Google-Mitarbeitern gegründetes Unternehmen wird übernommen – von Google.</description>
+	</item>
+
+	<item>
+		<title>USA: Alle Pkw sollen miteinander kommunizieren können</title>
+		<link>https://www.heise.de/newsticker/meldung/USA-Alle-Pkw-sollen-miteinander-kommunizieren-koennen-3569745.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Das US-Verkehrsministerium hat nun einen Gesetzentwurf vorgelegt, laut dem Neuwagen künftig per Funk mit anderen kommunizieren können müssen.</description>
+	</item>
+
+	<item>
+		<title>Autonomes Fahren: Testautobahn bekommt Landmarkenschilder</title>
+		<link>https://www.heise.de/newsticker/meldung/Autonomes-Fahren-Testautobahn-bekommt-Landmarkenschilder-3569652.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Damit automatisierte Autos auf dem &quot;Digitalen Testfeld Autobahn&quot; der A9 exakter steuern können, erhält es nun spezielle Schilder.</description>
+	</item>
+
+	<item>
+		<title>CIA-Folterreport: Vorerst keine Veröffentlichung, aber Absicherung durch Obama</title>
+		<link>https://www.heise.de/newsticker/meldung/CIA-Folterreport-Vorerst-keine-Veroeffentlichung-aber-Absicherung-durch-Obama-3569640.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der vollständige Untersuchungsbericht zu den Folterpraktiken der CIA im &quot;Krieg gegen den Terror&quot; wird wohl noch lange geheim bleiben. Aber der scheidende US-Präsident sichert ihn nun und legt die Grundlage für dessen Veröffentlichung.</description>
+	</item>
+
+	<item>
+		<title>Facebook: Video in 360° jetzt auch live</title>
+		<link>https://www.heise.de/newsticker/meldung/Facebook-Video-in-360-jetzt-auch-live-3569584.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Facebook testet am heutigen Dienstag gemeinsam mit National Geographic erstmals seine neue Funktion Live 360 – einen Livestream von der Mars Desert Research Station in Utah, der sich in 360° betrachten lässt.</description>
+	</item>
+
+	<item>
+		<title>Microsoft frohlockt über &quot;MacBook-Pro-Enttäuschung&quot;</title>
+		<link>https://www.heise.de/newsticker/meldung/Microsoft-frohlockt-ueber-MacBook-Pro-Enttaeuschung-3569536.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Mehr Nutzer denn je steigen nun vom Mac auf Surface-Hardware um, so Microsoft. Gerade die &quot;Enttäuschung über das neue MacBook Pro&quot; trage dazu bei.</description>
+	</item>
+
+	<item>
+		<title>Vorentwurf für europäische E-Privacy-Verordnung: Privacy by Default und weniger Warn-Banner</title>
+		<link>https://www.heise.de/newsticker/meldung/Vorentwurf-fuer-europaeische-E-Privacy-Verordnung-Privacy-by-Default-und-weniger-Warn-Banner-3569514.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der an die Öffentlichkeit geratene Vorentwurf der EU-Kommission für eine E-Privacy-Verordnung pocht auf &quot;Privacy by Default&quot; und verlangt damit unter anderem Browser-Herstellern einiges ab.</description>
+	</item>
+
+	<item>
+		<title>Wikileaks: Angeblich Beleg für Gründung von Erdoğans &quot;Troll-Armee&quot;</title>
+		<link>https://www.heise.de/newsticker/meldung/Wikileaks-Angeblich-Beleg-fuer-Gruendung-von-Erdogans-Troll-Armee-3569464.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Angesichts der Gezi-Proteste hat die türkische Führung bemerkt, dass Kritiker gekonnt soziale Medien nutzen, um sich zu organisieren. Daraufhin wurde eine &quot;Troll-Armee&quot; gegründet, um das zu kontern. Das beweist nun angeblich eine geleakte E-Mail.</description>
+	</item>
+
+	<item>
+		<title>Deutsch-französische Wirtschaftsräte fordern Recht auf Verschlüsselung</title>
+		<link>https://www.heise.de/newsticker/meldung/Deutsch-franzoesische-Wirtschaftsraete-fordern-Recht-auf-Verschluesselung-3569461.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der französische Digitalrat und der Zusammenschluss Junge Digitale Wirtschaft warnen in einem Aktionsplan zum deutsch-französischen Digitalgipfel vor einer Krypto-Regulierung und einem allzu freien Datenfluss.</description>
+	</item>
+
+	<item>
+		<title>Bundesarbeitsgericht: Betriebsrat darf bei Facebook-Auftritt mitreden</title>
+		<link>https://www.heise.de/newsticker/meldung/Bundesarbeitsgericht-Betriebsrat-darf-bei-Facebook-Auftritt-mitreden-3569497.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Könnten auf der Facebook-Seite eines Unternehmens Nutzer auch Kommentare über Mitarbeiter abgeben, muss der Betriebsrat dieser Posting-Funktion zustimmen.</description>
+	</item>
+
+	<item>
+		<title>Deutsch-französisches Digitaltandem: Mehr Geld für Startups und eine sichere Cloud</title>
+		<link>https://www.heise.de/newsticker/meldung/Deutsch-franzoesisches-Digitaltandem-Mehr-Geld-fuer-Startups-und-eine-sichere-Cloud-3569384.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Wirtschaftsminister Sigmar Gabriel und sein Amtskollege Michel Sapin haben auf der 2. deutsch-französischen Digitalkonferenz einen eine Million Euro schweren Gründerfonds und das Programm &quot;European Secure Cloud&quot; angekündigt.</description>
+	</item>
+
+	<item>
+		<title>Postbank: Keine Überweisungen am Terminal möglich</title>
+		<link>https://www.heise.de/newsticker/meldung/Postbank-Keine-Ueberweisungen-am-Terminal-moeglich-3569324.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Kunden der Postbank können derzeit am Terminal keine Überweisungen durchführen. Online und telefonisch seien Transaktionen aber abwickelbar, versichert das Finanzunternehmen.</description>
+	</item>
+
+	<item>
+		<title>Spiegel Online: Textschwund durch Adblocker </title>
+		<link>https://www.heise.de/newsticker/meldung/Spiegel-Online-Textschwund-durch-Adblocker-3569373.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der Kampf um Werbeblocker wird mit aggressiven Mitteln geführt. Auf dem Hamburger Nachrichtenportal wurden nun die Artikel verstümmelt. Das wurde nun behoben, aber der Kampf geht weiter.</description>
+	</item>
+
+	<item>
+		<title>US-Nachzählungen beendet: Trump bleibt Sieger – Unregelmäßigkeiten in Michigan</title>
+		<link>https://www.heise.de/newsticker/meldung/US-Nachzaehlungen-beendet-Trump-bleibt-Sieger-Unregelmaessigkeiten-in-Michigan-3569319.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die Nachzählung des Wahlergebnisses im US-Bundesstaat Wisconsin ist ohne Änderung des Ergebnisses beendet worden. In Pennsylvania und Michigan hatten Gerichte die Neuauszählung gestoppt, obwohl in Detroit zuvor Unregelmäßigkeiten entdeckt worden waren.</description>
+	</item>
+
+	<item>
+		<title>Netgear-Lücke dramatischer als angenommen, erste Sicherheits-Updates</title>
+		<link>https://www.heise.de/newsticker/meldung/Netgear-Luecke-dramatischer-als-angenommen-erste-Sicherheits-Updates-3569299.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die hochkritische Lücke im Web-Interface betrifft deutlich mehr Netgear-Router als bislang angenommen. Für eine Handvoll Geräte hat der Hersteller inzwischen eine Beta-Firmware herausgegeben, die das Problem löst.</description>
+	</item>
+
+	<item>
+		<title>Amazon will erstes Logistikzentrum in Norddeutschland bauen</title>
+		<link>https://www.heise.de/newsticker/meldung/Amazon-will-erstes-Logistikzentrum-in-Norddeutschland-bauen-3569336.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Der Online-Einzelhändler erweitert sein Netz an Logistikzentren und rückt dabei in Deutschland nach Norden.</description>
+	</item>
+
+	<item>
+		<title>State of the Web 2016: Jede zweite Website ist ein Sicherheitsrisiko</title>
+		<link>https://www.heise.de/newsticker/meldung/State-of-the-Web-2016-Jede-zweite-Website-ist-ein-Sicherheitsrisiko-3569114.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Schwachstellen im Internet werden immer mehr, stellt Menlo Security in seinem Bericht über den &quot;State of the Web&quot; fest. Eine wichtige Rolle spielt das Nachladen externer Inhalte über Werbe-Netzwerke und Content Delivery Networks.</description>
+	</item>
+
+	<item>
+		<title>Apple lässt Samsung Pay Mini angeblich nicht in den App Store</title>
+		<link>https://www.heise.de/newsticker/meldung/Apple-laesst-Samsung-Pay-Mini-angeblich-nicht-in-den-App-Store-3569257.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Samsung wollte den Online-Bezahldienst plattformübergreifend anbieten, die iPhone-App lehnte Apple nun aber angeblich ab. Der südkoreanische Konzern werde die iOS-App nicht erneut zur Prüfung einreichen.</description>
+	</item>
+
+	<item>
+		<title>Zahlen, bitte! 1,5 Meter per Funk</title>
+		<link>https://www.heise.de/newsticker/meldung/Zahlen-bitte-1-5-Meter-per-Funk-3568310.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Gerade mal 1,5 Meter – mehr nicht. Über diese Entfernung hinweg registrierte Heinrich Hertz 1886 die erste Funkübertragung. Seinen Bericht dazu legte er der Berliner Akademie der Wissenschaften am 13. Dezember 1888 vor. </description>
+	</item>
+
+	<item>
+		<title>Linux-Distribution: CentOS 7.3 veröffentlicht</title>
+		<link>https://www.heise.de/newsticker/meldung/Linux-Distribution-CentOS-7-3-veroeffentlicht-3569282.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Mit CentOS Linux 7.3.1611 stellt das Projekt eine aktualisierte Version seiner Linux-Distribution als Installations-Image zum Download bereit. Grundlage ist das vor wenigen Tagen veröffentlichte RHEL 7.3.</description>
+	</item>
+
+	<item>
+		<title>Angriff auf Google: Open-Xchange und Qwant starten Mail-Dienst und geloben Datenschutz</title>
+		<link>https://www.heise.de/newsticker/meldung/Angriff-auf-Google-Open-Xchange-und-Qwant-starten-Mail-Dienst-und-geloben-Datenschutz-3569215.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die deutsch-französische Kooperation ox.io soll datensparsame Internetsuchen mit einem umfassenden, werbefinanzierten Dienst für E-Mail, Kollaboration, Dateientausch, Bürosoftware und Verschlüsselung verknüpfen.</description>
+	</item>
+
+	<item>
+		<title>SpaceX und Boeing: Erste bemannte Raumflüge auf 2018 verschoben</title>
+		<link>https://www.heise.de/newsticker/meldung/SpaceX-und-Boeing-Erste-bemannte-Raumfluege-auf-2018-verschoben-3569254.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Sowohl bei SpaceX als auch bei Boeing verzögern sich die Vorbereitungen für den bemannten Raumflüge weiter. Nun sollen die Kapseln mit Menschen an Bord erst im Jahr 2018 zu Testflügen starten, nachdem sie eigentlich schon 2017 einsatzbereit sein sollten.</description>
+	</item>
+
+	<item>
+		<title>Sicherheitspatches: McAfee VirusScan Enterprise gefährdet Linux-Systeme</title>
+		<link>https://www.heise.de/newsticker/meldung/Sicherheitspatches-McAfee-VirusScan-Enterprise-gefaehrdet-Linux-Systeme-3569105.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Kombinieren Angreifer mehre Schwachstellen, können sie Schadcode auf Linux-Systeme schieben und ausführen. </description>
+	</item>
+
+	<item>
+		<title>Apple angeblich an Einstieg in Softbanks 100-Milliarden-Fonds interessiert</title>
+		<link>https://www.heise.de/newsticker/meldung/Apple-angeblich-an-Einstieg-in-Softbanks-100-Milliarden-Fonds-interessiert-3569199.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Apple hat einem Bericht zufolge erwogen, bis zu einer Milliarde Dollar zu investieren. Dies könne dem Konzern auch Einsicht in kommende Technik geben.</description>
+	</item>
+
+	<item>
+		<title>Heller als 500 Milliarden Sonnen: Lichtblitz war wohl doch keine Supernova</title>
+		<link>https://www.heise.de/newsticker/meldung/Heller-als-500-Milliarden-Sonnen-Lichtblitz-war-wohl-doch-keine-Supernova-3569111.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Anfang des Jahres hatten Forscher erklärt, die mit Abstand hellste Supernova beobachtet zu haben. Andere Forscher ziehen das nach Folgeuntersuchungen nun in Zweifel und präsentieren eine andere Erklärung. Hundertprozentig sicher sind sie aber auch nicht.</description>
+	</item>
+
+	<item>
+		<title>Erster UHD-Blu-ray-Player mit Dolby-Vision-Option</title>
+		<link>https://www.heise.de/newsticker/meldung/Erster-UHD-Blu-ray-Player-mit-Dolby-Vision-Option-3569024.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die Firma Oppo Digital hat den Vorverkauf seines UDP-203 gestartet, der sich über ein Firmware-Update in die Lage versetzen lassen soll, Videos im dynamischen HDR-Format &quot;Dolby Vision&quot; von Ultra HD Blu-rays abzuspielen.</description>
+	</item>
+
+	<item>
+		<title>Bericht: Google entwickelt autonomes Auto ohne Lenkrad vorerst nicht weiter</title>
+		<link>https://www.heise.de/newsticker/meldung/Bericht-Google-entwickelt-autonomes-Auto-ohne-Lenkrad-vorerst-nicht-weiter-3569077.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Alphabet legt die Entwicklung eines autonomen Autos ohne Eingriffsmöglichkeit für Passagiere auf Eis und setzt stattdessen auf Kooperationen mit herkömmlichen Autoherstellern.</description>
+	</item>
+
+	<item>
+		<title>iOS 10.2 schließt schwere Sicherheitslücken</title>
+		<link>https://www.heise.de/newsticker/meldung/iOS-10-2-schliesst-schwere-Sicherheitsluecken-3569059.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Das Update soll verhindern, dass Angreifer Schadcode über manipulierte Zertifikate auf iPhone, iPad, Apple Watch und Apple TV einschleusen können. Mehrere Schwachstellen rund um Lockscreen und Code-Sperre wurden ebenfalls behoben.</description>
+	</item>
+
+	<item>
+		<title>SAP eröffnet Startup-Zentrum für das Internet der Dinge in Berlin</title>
+		<link>https://www.heise.de/newsticker/meldung/SAP-eroeffnet-Startup-Zentrum-fuer-das-Internet-der-Dinge-in-Berlin-3568967.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Im &quot;Data Space&quot; sollen bis zu zehn Startups gleichzeitig drei bis vier Monate an ihren Projekten arbeiten können. SAP-Mitarbeiter helfen ihnen bei der Vermarktung ihrer Produkte. Im Fokus stehen Entwicklungen für das Internet der Dinge. </description>
+	</item>
+
+	<item>
+		<title>Facebook-Profil gehackt: Mann nach Anfeindungen unter Polizeischutz</title>
+		<link>https://www.heise.de/newsticker/meldung/Facebook-Profil-gehackt-Mann-nach-Anfeindungen-unter-Polizeischutz-3569083.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Ein Mann aus der Grafschaft Bentheim in Niedersachsen wird auf Facebook so heftig angefeindet, dass die Polizei eingreifen muss. Die Ermittler gehen davon aus, dass sein Profil gehackt wurde, um darunter hasserfüllte Kommentare zu posten.</description>
+	</item>
+
+	<item>
+		<title>Mars One: Bemannte Mars-Missionen rücken in weitere Ferne</title>
+		<link>https://www.heise.de/newsticker/meldung/Mars-One-Bemannte-Mars-Missionen-ruecken-in-weitere-Ferne-3569056.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Einst suchten TV-Sender per Casting Mitglieder für Pop-Bands. 2017 soll es eine vergleichbare Auslese geben, um geeignete Teams für Mars-Missionen ohne Rückflug zu finden. Aber kommt es überhaupt jemals zum Start?</description>
+	</item>
+
+	<item>
+		<title>iX Live-Webinar: schlanke Kommunikation im Internet der Dinge</title>
+		<link>https://www.heise.de/newsticker/meldung/iX-Live-Webinar-schlanke-Kommunikation-im-Internet-der-Dinge-3568777.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Kurzentschlossene können sich noch für das am 15. Dezember stattfindende Webinar anmelden. Es gibt Entwicklern und Administratoren, die Anwendungen für das Internet der Dinge schreiben und verwalten, einen Einblick in die wichtigsten Protokolle.</description>
+	</item>
+
+	<item>
+		<title>Erfolgreiche Frühphasen-Studie weckt Hoffnung für Leukämie-Patienten</title>
+		<link>https://www.heise.de/newsticker/meldung/Erfolgreiche-Fruehphasen-Studie-weckt-Hoffnung-fuer-Leukaemie-Patienten-3568205.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Bei 12 von 17 Teilnehmern einer klinischen Studie mit einer therapeutischen Impfung gegen akute myeloische Leukämie blieben Rückfälle mehrere Jahre aus. Der Wirkstoff soll jetzt mit weiteren Patienten getestet werden.</description>
+	</item>
+
+	<item>
+		<title>Literaturforscher wollen mit Text-Mining den &quot;Bestseller-Code&quot; geknackt haben</title>
+		<link>https://www.heise.de/newsticker/meldung/Literaturforscher-wollen-mit-Text-Mining-den-Bestseller-Code-geknackt-haben-3568807.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Vorab zu wissen, welches Buch sich gut verkauft, ist für Verlage von hohem wirtschaftlichen Wert. Ein Forscher-Duo der Stanford University und der University of Nebraska versucht, diese Frage mit Datenanalysen zu klären.</description>
+	</item>
+
+	<item>
+		<title>Die Häschen-Flöte aus dem 3D-Drucker</title>
+		<link>https://www.heise.de/newsticker/meldung/Die-Haeschen-Floete-aus-dem-3D-Drucker-3568703.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Eine Blockflöte in beliebiger Form herstellen? Mit dem 3D-Drucker ist das prinzipiell kein Problem. Damit die Töne auch gut klingen, gibt es mit “Printone” jetzt eine Designsoftware für 3D-gedruckte Flöten.</description>
+	</item>
+
+	<item>
+		<title>200. Geburtstag von Werner von Siemens</title>
+		<link>https://www.heise.de/newsticker/meldung/200-Geburtstag-von-Werner-von-Siemens-3568480.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Erfinder, Wissenschaftler, Unternehmer: Zu seinem 200. Geburtstag gibt Werner von Siemens im &quot;Historischen Gespräch&quot; einen Einblick in sein Berufsleben.</description>
+	</item>
+
+	<item>
+		<title>Google stellt Cache-Server auf Kuba</title>
+		<link>https://www.heise.de/newsticker/meldung/Google-stellt-Cache-Server-auf-Kuba-3568907.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Google wird kubanische Internet-User von einem lokalen Cache-Server aus mit Diensten und Inhalten versorgen, darunter YouTube. Das soll die kubanische Anbindung ans Internet entlasten.</description>
+	</item>
+
+	<item>
+		<title>Unionspolitiker wollen Strafregelungen gegen &quot;Fake News&quot;</title>
+		<link>https://www.heise.de/newsticker/meldung/Unionspolitiker-wollen-Strafregelungen-gegen-Fake-News-3568911.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>CDU-Politiker sprechen sich für eine Strafverschärfung aus, um gegen Fake News vorzugehen. Auch die SPD will den rechtlichen Rahmen &quot;konsequent ausschöpfen und bei Defiziten nachschärfen&quot;.</description>
+	</item>
+
+	<item>
+		<title>Urheberabgabe: Pauschalvergütung für Online-Plattformen scheint alternativlos</title>
+		<link>https://www.heise.de/newsticker/meldung/Urheberabgabe-Pauschalverguetung-fuer-Online-Plattformen-scheint-alternativlos-3568900.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Urheber, Forscher, Politiker und Verbraucherschützer haben sich auf einer Konferenz zu Digital-Plattformen für ein abgestuftes Haftungs- und Vergütungsmodell ausgesprochen, doch die EU-Gremien müssen noch überzeugt werden.</description>
+	</item>
+
+	<item>
+		<title>SoftMaker Office: Update bringt Gruppenrichtlinien</title>
+		<link>https://www.heise.de/newsticker/meldung/SoftMaker-Office-Update-bringt-Gruppenrichtlinien-3568836.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die aktuelle Revision 763 für SoftMakers Office-Paket fügt der Windows-Version Gruppenrichtlinien hinzu. So können Administratoren zentrale Funktionen der Programme konfigurieren und vorschreiben.</description>
+	</item>
+
+	<item>
+		<title>Pokémon Go: Weihnachtsaktion zielt auf den Geldbeutel</title>
+		<link>https://www.heise.de/newsticker/meldung/Pokemon-Go-Weihnachtsaktion-zielt-auf-den-Geldbeutel-3568892.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Um die Spieler über die kalten Wochen bei Laune zu halten, legt Niantic neue Pokémon nach – die allerdings nur aus Eiern schlüpfen. Außerdem gibt es ein Pikachu mit Weihnachtsmütze zu fangen.</description>
+	</item>
+
+	<item>
+		<title>Controller angeklagt: Eine Million US-Dollar des Arbeitgebers für In-Game-Käufe ausgegeben</title>
+		<link>https://www.heise.de/newsticker/meldung/Controller-angeklagt-Eine-Million-US-Dollar-des-Arbeitgebers-fuer-In-Game-Kaeufe-ausgegeben-3568600.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Ein US-amerikanischer Controller betrog seinen Arbeitgeber um umgerechnet 4,8 Millionen Euro und verzockte davon eine Million im Game of War – einem eigentlich kostenlosen Onlinespiel. </description>
+	</item>
+
+	<item>
+		<title>iOS 10.2 nun verfügbar: Viele Verbesserungen und Emojis</title>
+		<link>https://www.heise.de/newsticker/meldung/iOS-10-2-nun-verfuegbar-Viele-Verbesserungen-und-Emojis-3568571.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die neue iOS-Version bringt neue Emojis auf iPhone und iPad. Das Update räumt Fehler aus, ergänzt nützliche Funktionen und führt Apples TV-App ein.</description>
+	</item>
+
+	<item>
+		<title>Abschaffung der Roaming-Gebühren rückt ein Stück näher</title>
+		<link>https://www.heise.de/newsticker/meldung/Abschaffung-der-Roaming-Gebuehren-rueckt-ein-Stueck-naeher-3568809.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die neue Regelung zum Roaming im EU-Ausland ohne zusätzliche Telefoniekosten soll ab Juni 2017 in Kraft treten. Eine Hürde auf dem Weg dahin ist nun mit dem Votum der Vertreter der EU-Staaten genommen.</description>
+	</item>
+
+	<item>
+		<title>SPD wirbt vor Bundestagswahl für Initiative gegen &quot;Fake-News&quot;</title>
+		<link>https://www.heise.de/newsticker/meldung/SPD-wirbt-vor-Bundestagswahl-fuer-Initiative-gegen-Fake-News-3568783.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die SPD will gezielt gestreuten Falschinformationen im Internet den Garaus machen. Die Sozialdemokraten setzen für den Fall auf einen &quot;Nichtangriffspakt&quot; aller Parteien.</description>
+	</item>
+
+	<item>
+		<title>Netgear-Router trivial angreifbar, noch kein Patch in Sicht</title>
+		<link>https://www.heise.de/newsticker/meldung/Netgear-Router-trivial-angreifbar-noch-kein-Patch-in-Sicht-3568679.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Im Web-Interface einiger Netgear-Router klafft offenbar eine kritische Sicherheitslücke, die Angreifer leicht ausnutzen können, um Code mit Root-Rechten auszuführen. Schutz verspricht bisher nur ein unorthodoxer Weg: Man soll die Lücke selbst ausnutzen.</description>
+	</item>
+
+	<item>
+		<title>iPhone 7 Plus: Erstes Aufsatzobjektiv für Dual-Kamera</title>
+		<link>https://www.heise.de/newsticker/meldung/iPhone-7-Plus-Erstes-Aufsatzobjektiv-fuer-Dual-Kamera-3568627.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Kamerars Zoom Lens Kit ist für die Doppelkamera des iPhone 7 Plus ausgelegt und umfasst neben einem Objektiv für Makroaufnahmen auch ein Linsensystem für Weitwinkel- und Teleaufnahmen.</description>
+	</item>
+
+	<item>
+		<title>Otto Now: Elektro- und Haushaltsgeräte mieten statt kaufen</title>
+		<link>https://www.heise.de/newsticker/meldung/Otto-Now-Elektro-und-Haushaltsgeraete-mieten-statt-kaufen-3568700.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Mit Otto Now will der Hamburger Online-Händler neue Wege gehen: Kunden können zahlreiche Produkte wie Konsolen und Notebooks mieten, eine Playstation 4 gibt es für 14,99 Euro im Monat.</description>
+	</item>
+
+	<item>
+		<title>Online-Handel: Bundesrechungshof sieht Internet als &quot;Steueroase&quot;</title>
+		<link>https://www.heise.de/newsticker/meldung/Online-Handel-Bundesrechungshof-sieht-Internet-als-Steueroase-3568469.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Laut Bundesrechnungshof-Präsident Kay Scheller gehen dem Fiskus im großen Stil Steuereinnahmen aus dem Online-Handel durch die Lappen. Um etwas dagegen zu tun, fehle es an Konzepten und Mitteln.</description>
+	</item>
+
+	<item>
+		<title>Erpressungstrojaner Popcorn Time: Infiziere zwei andere und du bekommst deine Daten</title>
+		<link>https://www.heise.de/newsticker/meldung/Erpressungstrojaner-Popcorn-Time-Infiziere-zwei-andere-und-du-bekommst-deine-Daten-3568526.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die neueste Masche bei Erpressungstrojanern scheinen Referrer zu sein. Beim Trojaner Popcorn Time kann man sich angeblich frei kaufen, in dem man andere Nutzer infiziert.</description>
+	</item>
+
+	<item>
+		<title>SMS statt E-Mail – Dubiose Inkasso-Firmen nutzen neue Wege</title>
+		<link>https://www.heise.de/newsticker/meldung/SMS-statt-E-Mail-Dubiose-Inkasso-Firmen-nutzen-neue-Wege-3568622.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Verbraucherschützer warnen, dass dubiose Inkassofirmen inzwischen vermehrt über SMS versuchen, an das Geld ahnungsloser Verbraucher zu kommen. Über einen Trick kommen sie an die dazu benötigten Handynummern</description>
+	</item>
+
+	<item>
+		<title>HDMI-Standard um HDR-Format für TV-Übertragungen erweitert</title>
+		<link>https://www.heise.de/newsticker/meldung/HDMI-Standard-um-HDR-Format-fuer-TV-Uebertragungen-erweitert-3568549.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Mit der Spezifikation 2.0b wird die digitale Audio/Video-Schnittstelle in die Lage versetzt, das HDR-Format &quot;Hybrid Log Gamma&quot; zu übertragen.</description>
+	</item>
+
+	<item>
+		<title>Rechenkarten von AMD: Radeon Instinct MI6, MI8 und MI25 mit Vega-GPU</title>
+		<link>https://www.heise.de/newsticker/meldung/Rechenkarten-von-AMD-Radeon-Instinct-MI6-MI8-und-MI25-mit-Vega-GPU-3568504.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>AMD präsentiert drei neue Rechenbeschleuniger, die für die Verarbeitung von besonders großen Datenmengen gedacht sind. Auf der Radeon Instinct MI25 sitzt sogar schon eine Vega-GPU.</description>
+	</item>
+
+	<item>
+		<title>Dänisches Gericht: Austausch-iPhone darf kein &quot;Refurbished&quot;-Gerät sein</title>
+		<link>https://www.heise.de/newsticker/meldung/Daenisches-Gericht-Austausch-iPhone-darf-kein-Refurbished-Geraet-sein-3568427.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Als Ersatz für ein defektes iPhone muss Apple nach Ansicht der Richter ein Neugerät bereitstellen anstelle eines generalüberholten iPhones, das gebrauchte Komponenten enthalten kann. Ähnliche Fälle hat Apple bereits in anderen Ländern verloren.</description>
+	</item>
+
+	<item>
+		<title>Hosentaschen-Drohnen: Zerotech Dobby und AirSelfie</title>
+		<link>https://www.heise.de/newsticker/meldung/Hosentaschen-Drohnen-Zerotech-Dobby-und-AirSelfie-3568337.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Mit der Zerotech Dobby und der AirSelfie versuchen gleich zwei Mini-Drohnen die Selfie-Sticks obsolet zu machen. Sie passen in eine Hosentasche und lassen sich über ein Smartphone steuern.</description>
+	</item>
+
+	<item>
+		<title>Hoverboards &amp; Co.: Polizei warnt vor &quot;Funmobilen&quot; mit Elektromotor</title>
+		<link>https://www.heise.de/newsticker/meldung/Hoverboards-Co-Polizei-warnt-vor-Funmobilen-mit-Elektromotor-3568429.html?wt_mc=rss.ho.beitrag.rdf</link>
+			<description>Die technische Entwicklung bei Elektrofahrzeugen betrifft nicht nur Autos und Fahrräder. Wer geschickt ist, kann auch auf elektrisch angetriebenen Rollbrettern und Rollern lautlos über den Asphalt gleiten. Das ist allerdings nicht überall erlaubt.</description>
+	</item>
+
+
+
+</rdf:RDF>
+
